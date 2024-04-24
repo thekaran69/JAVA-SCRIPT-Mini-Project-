@@ -20,16 +20,36 @@ body{
     background-color: #d95980;
 }
 
+.red:hover{
+    transform: scale(1.07);
+    transition: all 0.2s ease-out;
+}
+
 .yellow{
     background-color: #f9bb45;
 }
+.yellow:hover{
+    transform: scale(1.07);
+    transition: all 0.2s ease-out;
+}
+
 
 .green{
     background-color: #63acc0;
 }
 
+.green:hover{
+    transform: scale(1.07);
+    transition: all 0.2s ease-out;
+}
+
 .purple{
     background-color: #899ff9;
+}
+
+.purple:hover{
+    transform: scale(1.07);
+    transition: all 0.2s ease-out;
 }
 
 .flash{
