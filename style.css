@@ -1,12 +1,15 @@
 body{
+    color: white;
     text-align: center;
+    background: url(bg.avif);
+
 }
 
 .btn{
     height: 150px;
     width: 150px;
     border-radius: 10%;
-    border: 7px solid black;
+    border: 7px solid rgb(255, 255, 255);
     margin: 2rem;
 }
 
